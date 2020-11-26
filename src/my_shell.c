@@ -25,7 +25,7 @@ int main()
 
 	while(1)
 	{
-		printf("myshell$ ");
+		printf("my_shell$ ");
 		//While loop flag
 		if(!fgets(cmd, CAP, stdin))
 		{
